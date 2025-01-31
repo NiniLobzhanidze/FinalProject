@@ -15,7 +15,7 @@ src/test/java/ge/automation/: Contains base test cases and test classes.
 
  # Setup
 
-git clone repository url: https://github.com/NiniLobzhanidze/FinalProject/edit/main/README.md
+git clone repository url: https://github.com/NiniLobzhanidze/FinalProject.git
 
 # Navigate to project directory
 
